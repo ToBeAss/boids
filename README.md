@@ -1,4 +1,6 @@
 # Boids
+## Page
+https://tobeass.github.io/boids/
 ## Credit
 "Boids!" by Adams/Land at https://people.ece.cornell.edu/land/courses/ece4760/labs/s2021/Boids/Boids.html#ECE-4760,-Spring-2020,-Adams/Land
 ## Background
